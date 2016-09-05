@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_db4d187f9d86bdce8a13efbd8521fb27a92608b3.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_77dd0e46a6f25f86861516e49415614f38ec6bbd.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_0b386afd5fac2901895bd295339f77233d76fb54.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_a5477019dd0737935efe618495b21cd6041595fc.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_d81622d784fac656e95c0834792ca057ab4a8636.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/vladvieru/Desktop/School/Udacity Android NanoDegree/Projects/CoffeeApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_4afa3600db8aa54ffafe9545d93c244dc0e234bd.jar" />
+    </item>
+
+</items>
